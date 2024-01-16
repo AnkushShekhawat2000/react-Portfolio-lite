@@ -24,6 +24,12 @@ const App = () => {
                         ))
                     }
 
+                    {/* for understanding ternary condition */}
+          {/* {
+                a>b ? (<h1>Greater Number is {a}</h1>):(<h1>Greater Number is {b}</h1>)}
+            } */}
+            
+    
                 
                 </div>
             )
